@@ -5,7 +5,7 @@ over time.
 
 ![Stargazers](stargazers.png)
 
-## Prequisites
+## Prerequisites
 
 Python 3 with pip \
 [Docker](https://docs.docker.com/get-docker/) \
