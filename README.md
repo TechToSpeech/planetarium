@@ -7,7 +7,7 @@ over time.
 
 ## Prequisites
 
-Python 3 with pip
+Python 3 with pip \
 [Docker](https://docs.docker.com/get-docker/) \
 [Steampipe](https://steampipe.io/) with [GitHub plugin](https://hub.steampipe.io/plugins/turbot/github)\
 [GitHub Access Token](https://github.com/settings/tokens)
